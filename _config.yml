@@ -1,7 +1,7 @@
 # Site wide configuration
 
-title:            Site Title
-locale:           en_US
+title:            CJS Boulogne
+locale:           fr_FR
 url:              
 
 
@@ -26,9 +26,9 @@ kramdown:
 
 # Site owner
 owner:
-  name: Your Name
-  avatar: bio-photo.jpg
-  bio: "Describe your self."
+  name: 
+  avatar: flyer.jpg
+  bio: 
   email: 
   disqus-shortname: 
   twitter: #username

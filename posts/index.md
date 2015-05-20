@@ -1,5 +1,5 @@
 ---
 layout: post-index
-title: All Posts
+title: Les actualités du projet
 excerpt: "A List of Posts"
 ---

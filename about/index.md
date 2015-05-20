@@ -1,25 +1,17 @@
 ---
 layout: page
-title: About the Theme
+title: Créer son job d'été à Boulogne, c'est possible !
 tags: [about, Jekyll, theme, responsive]
 modified: 2014-08-08T20:53:07.573882-04:00
 comments: true
-image:
-  feature: sample-image-2.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-Minimal Mistakes is responsive Jekyll theme with large featured images and solid typography. As the name implies the styling is fairly minimal to make it easier for you to build on top of.
+## Plutôt que de chercher un job cet été, pourquoi ne pas le créer? 
 
-## Minimal Mistakes is all about:
+* Vous avez au moins 16 ans et encore rien de prévu pour cet été? Ce projet est fait pour vous! 
+* Vous pourrez inventer votre boulot pour juillet et août avec une dizaine d'autres jeunes de votre âge.
+* Une équipe vous accompagnera tout au long de l'été. Elle vous aider à vous organiser et à trouver vos clients.
 
-* Responsive templates. Looking good on mobile, tablet, and desktop.
-* Gracefully degrading in older browsers. Compatible with Internet Explorer 8+ and all modern browsers. 
-* Minimal embellishments -- content first.
-* Optional large feature images for posts and pages.
-* Simple and clear permalink structure.
-* [Custom 404 page](http://mmistakes.github.io/minimal-mistakes/404.html) to get you started.
-* Support for Disqus Comments
+Vous voulez participer? Rendez-vous sur la rubrique "Participer" et remplissez le petit questionnaire et nous vous contacterons au plus vite.
 
-<a markdown="0" href="{{ site.url }}/theme-setup" class="btn">Install Minimal Mistakes Theme</a>
+
