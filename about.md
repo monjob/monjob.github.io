@@ -17,3 +17,5 @@ Une CJS est une manière concrète, ludique et créative d'envisager la créatio
 
 
 La CJS regroupe aussi bien des acteurs publics que privés afin de donner un maximum de réseau et de potentiels partenariats aux jeunes membres de la CJS.
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=z7fxW2UVpvI" frameborder="0"> </iframe>
