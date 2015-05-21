@@ -20,7 +20,9 @@ published: true
   <input type='text' name='mail'/><br><br>
   <label class="control-label">Numéro de portable</label>
   <input type='text' name='numero' /><br><br>
-  <label class="control-label">Pourquoi souhaitez vous participer ?</label>
+  <label class="control-label">Pourquoi souhaitez vous participer ? (en une ligne ou plus)</label>
   <textarea id='message' name='message' placeholder='Message' rows='8' cols='50'></textarea><br><br>
    <input type='submit' class="btn" value='Demander à participer' />
 </form>
+
+Vous pouvez aussi nous joindre par mail ou téléphone indiqué sur la gauche de ce site
