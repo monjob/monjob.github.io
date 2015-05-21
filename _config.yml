@@ -2,7 +2,7 @@
 
 title:            CJS Boulogne
 locale:           fr_FR
-url:              
+url: http://monjob.github.io              
 
 
 # Jekyll configuration
@@ -28,8 +28,8 @@ kramdown:
 owner:
   name: 
   avatar: flyer.jpg
-  bio: 
-  email: 
+  bio: Tel : 0782752983
+  email: cjsboulogne-contact@ulists.org
   disqus-shortname: 
   twitter: #username
   facebook: #username
