@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Déroulé
-permalink: /deroule/
+title: Contribuer
+permalink: /contribuer/
 published: true
 ---
 
@@ -20,12 +20,3 @@ Vous pouvez rejoindre le comité local en envoyant un mail à cjsboulogne-contac
  - Vidéo : http://slides.com/marion59/cooperatives-jeunesse-de-service#/1
  - Articles :  http://www.entreprises.ouest-france.fr/article/mayenneseize-jeunes-creent-leur-entreprise-pour-lete-08-07-2014-152837
  - Fiche : https://docs.google.com/a/okarina.coop/document/d/1ufPv8NKs3GbtODRnvZoSqAgk5qLPp_4IE7o7Z5PLf5c/edit
-
-
-
-
-
-
-
-
-Contribuer au bon fonctionnement de la coopérative cet été
