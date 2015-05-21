@@ -7,7 +7,7 @@ published: true
 
 
 
-### Envoyer nous un petit message pour rejoindre la coopérative cet été  
+### Envoyer nous un petit message pour rejoindre la coopérative cet été ou poser une question
 
 
 <form action="https://getsimpleform.com/messages?form_api_token=ffa72814334bb7be308fd85fcbf37c6a" method="post">
@@ -20,7 +20,7 @@ published: true
   <input type='text' name='mail'/><br><br>
   <label class="control-label">Numéro de portable</label>
   <input type='text' name='numero' /><br><br>
-  <label class="control-label">Pourquoi souhaitez vous participer ? (en une ligne ou plus)</label>
+  <label class="control-label">Dites ici pourquoi souhaitez vous participer ou posez une question sur la coopérative</label>
   <textarea id='message' name='message' placeholder='Message' rows='8' cols='50'></textarea><br><br>
    <input type='submit' class="btn" value='Demander à participer' />
 </form>
