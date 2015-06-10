@@ -5,6 +5,8 @@ permalink: /participer/
 published: true
 ---
 
+### Participer à la rencontre de juin !
+<img src="/images/flyerjuin.jpg" width="500px">
 
 
 ### Envoyer nous un petit message pour rejoindre la coopérative cet été ou poser une question
